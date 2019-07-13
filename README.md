@@ -46,13 +46,13 @@ String(u);
 u.toString();
 ```
 
-```
+```sh
 jam install domrul
 bower install domurl
 
 npm install domurl
 ```
 
-```
+```html
 <script src="url.min.js"></script>
 ```
